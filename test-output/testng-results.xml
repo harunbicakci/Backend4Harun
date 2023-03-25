@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-18T13:54:54 EDT" name="Default suite" finished-at="2023-03-18T13:54:55 EDT" duration-ms="1226">
+    <groups>
+    </groups>
+    <test started-at="2023-03-18T13:54:54 EDT" name="Default test" finished-at="2023-03-18T13:54:55 EDT" duration-ms="1226">
+      <class name="com.neotech.lesson06.StoringData">
+        <test-method signature="getAndStoreData()[pri:0, instance:com.neotech.lesson06.StoringData@3c947bc5]" started-at="2023-03-18T13:54:54 EDT" name="getAndStoreData" finished-at="2023-03-18T13:54:54 EDT" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAndStoreData -->
+        <test-method signature="getAndStoreDataEnhanced()[pri:0, instance:com.neotech.lesson06.StoringData@3c947bc5]" started-at="2023-03-18T13:54:55 EDT" name="getAndStoreDataEnhanced" finished-at="2023-03-18T13:54:55 EDT" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAndStoreDataEnhanced -->
+      </class> <!-- com.neotech.lesson06.StoringData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
